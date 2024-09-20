@@ -1,0 +1,17 @@
+numpy
+matplotlib
+plotly
+pyyaml
+tensorflow
+scikit-learn
+flask
+lime
+shap
+codecarbon
+pandas
+scipy
+ydata-profiling
+pydantic
+keras-tuner
+xgboost
+lightgbm
